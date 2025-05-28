@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @littlestdog
-- 👀 I’m interested in tech, level and narrative design.
-- 🌱 I’m currently learning game design.
+- 👀 I’m interested in game writing and level + narrative design.
 - 😄 Pronouns: They/Them
 
 <!---
